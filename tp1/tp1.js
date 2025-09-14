@@ -1,7 +1,7 @@
 /*
  Felix Gabriel Uset
  Comision 5
- Video:
+ Video:https://www.youtube.com/watch?v=NANGg5KF-PU
  */
 
 let opart;
@@ -35,3 +35,4 @@ function mouseClicked() {
     figuraColorDos = color(255);
   }
 }
+
